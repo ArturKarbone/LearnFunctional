@@ -3,6 +3,7 @@
 
 ### Actions
 
+Goal: to put an ability to solve problems using functional paradigm into my toolbelt. Apply where it is necessary. Decide how to combine this with Akka.NET knowledge.
 
 ### Ideasa
 
