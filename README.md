@@ -67,6 +67,10 @@ Goal: to put an ability to solve problems using functional paradigm into my tool
 ### Books
 
 - [Learning Erlang by Example](https://leanpub.com/learning_erlang_by_example)
+- [Programming Erlang: Software for a Concurrent World](https://www.amazon.co.uk/Programming-Erlang-Concurrent-Pragmatic-Programmers/dp/193778553X?tag=futur-ken-21)
+- [Erlang Programming: A Concurrent Approach to Software Development ](https://www.amazon.co.uk/Erlang-Programming-Francesco-Cesarini-ebook/dp/B002L4EXHY?tag=futur-ken-21)
+- [Learn You Some Erlang for great good!](http://learnyousomeerlang.com/)
+
 
 ### Public Speaking
 
