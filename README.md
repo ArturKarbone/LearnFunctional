@@ -65,7 +65,7 @@
 
 ### Books
 
-
+- [Learning Erlang by Example](https://leanpub.com/learning_erlang_by_example)
 
 ### Public Speaking
 
