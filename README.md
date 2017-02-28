@@ -70,6 +70,7 @@ Goal: to put an ability to solve problems using functional paradigm into my tool
 - [Programming Erlang: Software for a Concurrent World](https://www.amazon.co.uk/Programming-Erlang-Concurrent-Pragmatic-Programmers/dp/193778553X?tag=futur-ken-21)
 - [Erlang Programming: A Concurrent Approach to Software Development ](https://www.amazon.co.uk/Erlang-Programming-Francesco-Cesarini-ebook/dp/B002L4EXHY?tag=futur-ken-21)
 - [Learn You Some Erlang for great good!](http://learnyousomeerlang.com/)
+- [Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer](https://www.amazon.com/Clojure-Brave-True-Ultimate-Programmer/dp/1593275919)
 
 
 ### Public Speaking
